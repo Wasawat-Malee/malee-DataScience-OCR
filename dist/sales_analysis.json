@@ -1,0 +1,177 @@
+{
+  "generated_from": "data/sales.xlsx",
+  "monthly_sales": [
+    {
+      "month": "2024-02-01",
+      "revenue": 19664.18
+    },
+    {
+      "month": "2024-03-01",
+      "revenue": 79726.0
+    },
+    {
+      "month": "2024-04-01",
+      "revenue": 77954.62
+    },
+    {
+      "month": "2024-05-01",
+      "revenue": 75606.0
+    },
+    {
+      "month": "2024-06-01",
+      "revenue": 79388.75
+    },
+    {
+      "month": "2024-07-01",
+      "revenue": 82039.08
+    },
+    {
+      "month": "2024-08-01",
+      "revenue": 76264.45
+    },
+    {
+      "month": "2024-09-01",
+      "revenue": 82852.28
+    },
+    {
+      "month": "2024-10-01",
+      "revenue": 68720.0
+    },
+    {
+      "month": "2024-11-01",
+      "revenue": 86237.2
+    },
+    {
+      "month": "2024-12-01",
+      "revenue": 86449.95
+    },
+    {
+      "month": "2025-01-01",
+      "revenue": 77807.41
+    },
+    {
+      "month": "2025-02-01",
+      "revenue": 70646.21
+    },
+    {
+      "month": "2025-03-01",
+      "revenue": 69754.58
+    },
+    {
+      "month": "2025-04-01",
+      "revenue": 78424.97
+    },
+    {
+      "month": "2025-05-01",
+      "revenue": 82451.68
+    },
+    {
+      "month": "2025-06-01",
+      "revenue": 73101.26
+    },
+    {
+      "month": "2025-07-01",
+      "revenue": 78940.25
+    },
+    {
+      "month": "2025-08-01",
+      "revenue": 28938.69
+    }
+  ],
+  "demand_forecast": [
+    {
+      "product_id": "P01",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 64.0
+    },
+    {
+      "product_id": "P02",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 55.33
+    },
+    {
+      "product_id": "P03",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 63.33
+    },
+    {
+      "product_id": "P04",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 54.0
+    },
+    {
+      "product_id": "P05",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 68.0
+    },
+    {
+      "product_id": "P06",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 54.33
+    },
+    {
+      "product_id": "P07",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 61.33
+    },
+    {
+      "product_id": "P08",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 60.33
+    },
+    {
+      "product_id": "P09",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 74.0
+    },
+    {
+      "product_id": "P10",
+      "forecast_month": "2025-09-01",
+      "forecast_qty": 58.0
+    }
+  ],
+  "rfm_segments": [
+    {
+      "segment": 0,
+      "count_customers": 11,
+      "avg_R_days": 9.36,
+      "avg_F_orders": 114.09,
+      "avg_M_revenue": 31548.5,
+      "top_customers_by_M": [
+        "C044",
+        "C012",
+        "C049",
+        "C037",
+        "C019"
+      ]
+    },
+    {
+      "segment": 1,
+      "count_customers": 16,
+      "avg_R_days": 6.5,
+      "avg_F_orders": 90.94,
+      "avg_M_revenue": 23922.8,
+      "top_customers_by_M": [
+        "C023",
+        "C042",
+        "C021",
+        "C030",
+        "C005"
+      ]
+    },
+    {
+      "segment": 2,
+      "count_customers": 23,
+      "avg_R_days": 2.74,
+      "avg_F_orders": 101.61,
+      "avg_M_revenue": 28050.84,
+      "top_customers_by_M": [
+        "C040",
+        "C033",
+        "C006",
+        "C011",
+        "C028"
+      ]
+    }
+  ]
+}

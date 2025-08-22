@@ -1,0 +1,85 @@
+{
+  "image_diff": {
+    "ssim": 0.9372,
+    "diff_boxes": [
+      {
+        "x": 213,
+        "y": 83,
+        "w": 115,
+        "h": 115
+      }
+    ]
+  },
+  "video_detection": {
+    "fps": 10.0,
+    "events": [
+      {
+        "t": 0.0,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 0.3,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 0.6,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 3.0,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 3.3,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 3.6,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 3.9,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 4.2,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 4.5,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 4.8,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 5.1,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 5.4,
+        "persons": 0,
+        "movement": true
+      },
+      {
+        "t": 5.7,
+        "persons": 0,
+        "movement": true
+      }
+    ],
+    "person_detected_any": false,
+    "movement_detected_any": true
+  }
+}

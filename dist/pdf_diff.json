@@ -1,0 +1,112 @@
+{
+  "a_path": "data/pdfs/a.pdf",
+  "b_path": "data/pdfs/b.pdf",
+  "line_diffs": [
+    {
+      "tag": "replace",
+      "a_range": [
+        2,
+        3
+      ],
+      "b_range": [
+        2,
+        3
+      ],
+      "a_excerpt": [
+        {
+          "page": 1,
+          "line": 2,
+          "text": "Customer: ACME CO."
+        },
+        {
+          "page": 1,
+          "line": 3,
+          "text": "Date: 2024-11-01"
+        }
+      ],
+      "b_excerpt": [
+        {
+          "page": 1,
+          "line": 2,
+          "text": "Customer: ACME CORPORATION"
+        },
+        {
+          "page": 1,
+          "line": 3,
+          "text": "Date: 2024-11-02"
+        }
+      ]
+    },
+    {
+      "tag": "replace",
+      "a_range": [
+        5,
+        7
+      ],
+      "b_range": [
+        5,
+        8
+      ],
+      "a_excerpt": [
+        {
+          "page": 1,
+          "line": 5,
+          "text": "- Widget A x 3"
+        },
+        {
+          "page": 1,
+          "line": 6,
+          "text": "- Widget B x 2"
+        },
+        {
+          "page": 1,
+          "line": 7,
+          "text": "Total: 500.00"
+        }
+      ],
+      "b_excerpt": [
+        {
+          "page": 1,
+          "line": 5,
+          "text": "- Widget A x 4"
+        },
+        {
+          "page": 1,
+          "line": 6,
+          "text": "- Widget C x 1"
+        },
+        {
+          "page": 1,
+          "line": 7,
+          "text": "Total: 540.00"
+        },
+        {
+          "page": 1,
+          "line": 8,
+          "text": "Notes: deliver ASAP"
+        }
+      ]
+    }
+  ],
+  "word_delta": {
+    "added_words": [
+      "1",
+      "2024-11-02",
+      "4",
+      "540.00",
+      "asap",
+      "c",
+      "corporation",
+      "deliver",
+      "notes"
+    ],
+    "removed_words": [
+      "2",
+      "2024-11-01",
+      "3",
+      "500.00",
+      "b",
+      "co."
+    ]
+  }
+}
