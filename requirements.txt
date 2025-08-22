@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+scikit-image
+opencv-python-headless
+openpyxl
+PyMuPDF
