@@ -4,7 +4,7 @@ from skimage.metrics import structural_similarity as ssim
 BASE = pathlib.Path(__file__).resolve().parents[1]
 IMG_A = BASE / "data" / "images" / "img_a.png"
 IMG_B = BASE / "data" / "images" / "img_b.png"
-VID   = BASE / "data" / "video"  / "sample.avi"
+VID   = BASE / "data" / "video"  / "sample.mp4"
 DIST  = BASE / "dist"
 DIST.mkdir(exist_ok=True, parents=True)
 
@@ -80,3 +80,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
