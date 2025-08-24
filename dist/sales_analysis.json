@@ -82,95 +82,95 @@
     {
       "product_id": "P01",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 64.33
+      "forecast_qty": 58.0
     },
     {
       "product_id": "P02",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 57.0
+      "forecast_qty": 64.67
     },
     {
       "product_id": "P03",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 45.67
+      "forecast_qty": 60.33
     },
     {
       "product_id": "P04",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 71.33
+      "forecast_qty": 52.67
     },
     {
       "product_id": "P05",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 55.67
+      "forecast_qty": 66.33
     },
     {
       "product_id": "P06",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 78.67
+      "forecast_qty": 67.0
     },
     {
       "product_id": "P07",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 59.0
+      "forecast_qty": 64.67
     },
     {
       "product_id": "P08",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 74.33
+      "forecast_qty": 49.33
     },
     {
       "product_id": "P09",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 56.67
+      "forecast_qty": 65.67
     },
     {
       "product_id": "P10",
       "forecast_month": "2025-09-01",
-      "forecast_qty": 50.0
+      "forecast_qty": 64.0
     }
   ],
   "rfm_segments": [
     {
       "segment": 0,
-      "count_customers": 17,
-      "avg_R_days": 2.47,
-      "avg_F_orders": 109.41,
-      "avg_M_revenue": 30580.37,
+      "count_customers": 7,
+      "avg_R_days": 15.57,
+      "avg_F_orders": 89.57,
+      "avg_M_revenue": 24390.03,
       "top_customers_by_M": [
-        "C026",
-        "C014",
-        "C004",
-        "C029",
-        "C024"
+        "C015",
+        "C032",
+        "C007",
+        "C045",
+        "C023"
       ]
     },
     {
       "segment": 1,
-      "count_customers": 28,
-      "avg_R_days": 5.36,
-      "avg_F_orders": 97.36,
-      "avg_M_revenue": 25779.1,
+      "count_customers": 12,
+      "avg_R_days": 4.67,
+      "avg_F_orders": 118.75,
+      "avg_M_revenue": 32498.6,
       "top_customers_by_M": [
+        "C047",
+        "C050",
+        "C033",
         "C003",
-        "C011",
-        "C002",
-        "C018",
-        "C027"
+        "C046"
       ]
     },
     {
       "segment": 2,
-      "count_customers": 5,
-      "avg_R_days": 20.6,
-      "avg_F_orders": 92.2,
-      "avg_M_revenue": 26657.27,
+      "count_customers": 31,
+      "avg_R_days": 3.58,
+      "avg_F_orders": 96.61,
+      "avg_M_revenue": 26266.26,
       "top_customers_by_M": [
-        "C009",
-        "C039",
-        "C001",
-        "C031",
-        "C015"
+        "C012",
+        "C034",
+        "C011",
+        "C049",
+        "C041"
       ]
     }
   ]
