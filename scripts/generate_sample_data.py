@@ -47,7 +47,7 @@ def make_two_images():
     print("[ok] images -> data/images/img_a.png, img_b.png")
 
 def make_video():
-    path = VID_DIR / "sample.avi"
+    path = VID_DIR / "sample.mp4"
     w,h,fps = 320,240,10
     fourcc = cv2.VideoWriter_fourcc(*"MJPG")
     out = cv2.VideoWriter(str(path), fourcc, fps, (w,h))
@@ -102,3 +102,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
