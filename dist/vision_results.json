@@ -11,330 +11,75 @@
     ]
   },
   "video_detection": {
-    "fps": 24.0,
+    "fps": 10.0,
     "events": [
       {
         "t": 0.0,
-        "persons": 7,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 0.12,
-        "persons": 7,
+        "t": 0.3,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 0.25,
-        "persons": 3,
-        "movement": true
-      },
-      {
-        "t": 0.38,
-        "persons": 5,
-        "movement": true
-      },
-      {
-        "t": 0.5,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 0.62,
-        "persons": 7,
-        "movement": true
-      },
-      {
-        "t": 0.75,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 0.88,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 1.0,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 1.12,
-        "persons": 5,
-        "movement": true
-      },
-      {
-        "t": 1.25,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 1.38,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 1.5,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 1.62,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 1.75,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 1.88,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 2.0,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 2.12,
-        "persons": 6,
-        "movement": true
-      },
-      {
-        "t": 2.25,
-        "persons": 7,
-        "movement": true
-      },
-      {
-        "t": 2.38,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 2.5,
-        "persons": 7,
-        "movement": true
-      },
-      {
-        "t": 2.62,
-        "persons": 4,
-        "movement": true
-      },
-      {
-        "t": 2.75,
-        "persons": 6,
-        "movement": true
-      },
-      {
-        "t": 2.88,
-        "persons": 10,
+        "t": 0.6,
+        "persons": 0,
         "movement": true
       },
       {
         "t": 3.0,
-        "persons": 8,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 3.12,
-        "persons": 9,
+        "t": 3.3,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 3.25,
-        "persons": 9,
+        "t": 3.6,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 3.38,
-        "persons": 8,
+        "t": 3.9,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 3.5,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 3.62,
-        "persons": 6,
-        "movement": true
-      },
-      {
-        "t": 3.75,
-        "persons": 7,
-        "movement": true
-      },
-      {
-        "t": 3.88,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 4.0,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 4.12,
-        "persons": 7,
-        "movement": true
-      },
-      {
-        "t": 4.25,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 4.38,
-        "persons": 12,
+        "t": 4.2,
+        "persons": 0,
         "movement": true
       },
       {
         "t": 4.5,
-        "persons": 11,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 4.62,
-        "persons": 9,
+        "t": 4.8,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 4.75,
-        "persons": 11,
+        "t": 5.1,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 4.88,
-        "persons": 13,
+        "t": 5.4,
+        "persons": 0,
         "movement": true
       },
       {
-        "t": 5.0,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 5.12,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 5.25,
-        "persons": 12,
-        "movement": true
-      },
-      {
-        "t": 5.38,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 5.5,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 5.62,
-        "persons": 11,
-        "movement": true
-      },
-      {
-        "t": 5.75,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 5.88,
-        "persons": 12,
-        "movement": true
-      },
-      {
-        "t": 6.0,
-        "persons": 11,
-        "movement": true
-      },
-      {
-        "t": 6.12,
-        "persons": 9,
-        "movement": true
-      },
-      {
-        "t": 6.25,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 6.38,
-        "persons": 11,
-        "movement": true
-      },
-      {
-        "t": 6.5,
-        "persons": 12,
-        "movement": true
-      },
-      {
-        "t": 6.62,
-        "persons": 11,
-        "movement": true
-      },
-      {
-        "t": 6.75,
-        "persons": 8,
-        "movement": true
-      },
-      {
-        "t": 6.88,
-        "persons": 14,
-        "movement": true
-      },
-      {
-        "t": 7.0,
-        "persons": 13,
-        "movement": true
-      },
-      {
-        "t": 7.12,
-        "persons": 10,
-        "movement": true
-      },
-      {
-        "t": 7.25,
-        "persons": 12,
-        "movement": true
-      },
-      {
-        "t": 7.38,
-        "persons": 13,
-        "movement": true
-      },
-      {
-        "t": 7.5,
-        "persons": 15,
-        "movement": true
-      },
-      {
-        "t": 7.62,
-        "persons": 16,
-        "movement": true
-      },
-      {
-        "t": 7.75,
-        "persons": 12,
-        "movement": true
-      },
-      {
-        "t": 7.88,
-        "persons": 15,
+        "t": 5.7,
+        "persons": 0,
         "movement": true
       }
     ],
-    "person_detected_any": true,
+    "person_detected_any": false,
     "movement_detected_any": true
   }
 }
